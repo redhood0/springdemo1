@@ -1,0 +1,16 @@
+#server:
+#  port:
+#  servlet:
+#    context-path:
+book:
+  name: 新华字典
+  author: zhangxinhua
+
+  #book.name = 新华字典
+  #book.author=zhangxinhua
+  #book.price=30
+  #book.describe=${book.name}价格${book.price}
+  price: 30
+  describe: 1111
+  list: [aa,bb]
+  map: {id: 1, name: 2}
